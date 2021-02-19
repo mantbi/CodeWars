@@ -16,5 +16,5 @@ As stated above, this repo includes my own solutions and just posting them helps
 
 Codewarrior Profile Badge
 
-![My Codewarrior Profile Badge](https://www.codewars.com/users/mbpixels/badges/large)
+![My Codewarrior Profile Badge](https://www.codewars.com/users/mantbi/badges/large)
 
