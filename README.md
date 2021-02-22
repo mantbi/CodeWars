@@ -2,7 +2,7 @@
 
 My solutions of CodeWars challanges.
 
-My profile in codewars can be found [here](https://www.codewars.com/users/mbpixels)
+My profile in codewars can be found [here](https://www.codewars.com/users/mantbi)
 
 **IMPORTANT NOTE:**
 
