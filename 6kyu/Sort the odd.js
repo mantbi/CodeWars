@@ -11,7 +11,7 @@ Examples
 
 function sortArray(array) {
     // Return a sorted array.
-      const filterSort = array.filter(a => a % 2).sort();
+      const filterSort = array.filter(a => a % 2 !== 0).sort((a,b) => a - b);
   
       return array.map((value, index, array) => {
           return (value % 2 !== 0) ? filterSort.shift() : value
