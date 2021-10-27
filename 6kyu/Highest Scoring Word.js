@@ -8,7 +8,7 @@ All letters will be lowercase and all inputs will be valid.
 
 function high(x) {
   let inp = x.split(" ");
-  alphabet = "abcdefghijklmnopqrstuvwxyz".split("");
+  let alphabet = "abcdefghijklmnopqrstuvwxyz".split("");
   let score = 0;
   let result = "";
 
